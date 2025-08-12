@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="48" fill="#2c3e50" />
+  
+  <!-- Inner Circle -->
+  <circle cx="50" cy="50" r="40" fill="#3498db" />
+  
+  <!-- Letter ي (Yaa) stylized -->
+  <path d="M30 30 Q 50 30, 50 50 Q 50 70, 70 70" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round" />
+  
+  <!-- Dot for the letter ي -->
+  <circle cx="70" cy="80" r="6" fill="#ffffff" />
+  
+  <!-- Small circles representing freelancers/clients -->
+  <circle cx="25" cy="40" r="5" fill="#e74c3c" />
+  <circle cx="75" cy="40" r="5" fill="#2ecc71" />
+  <circle cx="35" cy="75" r="5" fill="#f39c12" />
+</svg>
